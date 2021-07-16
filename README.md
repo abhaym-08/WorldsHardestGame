@@ -1,1 +1,1 @@
-# WorldsHardestGame
+# world-hardest-game
